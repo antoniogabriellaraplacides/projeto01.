@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+    margin: 10px 300px 400px;
+}
+img{
+    height: 200px;
+}
+p{
+    font-size: 25px;
+}
+h1{
+    font-size: 40px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}

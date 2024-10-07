@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+}
+p{
+font-size: 30px;
+
+    text-align: justify;
+}
+
+.feminino{
+    width: 900px ;
+}
+h1{
+    text-align:center;
+}
+.menu{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+.menulista{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-size: 30px;
+    background-color: rgb(4, 3, 10);
+}
+
+.principal
+{
+    width: 900px;
+    margin: auto;
+}
+
+.ju{
+    width: 900px;
+}
+li{
+    font-size: 20px;
+}
+footer{
+    background-color: black;
+}
+h1{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+    
+
+
